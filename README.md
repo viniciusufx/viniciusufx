@@ -1,5 +1,10 @@
 Atualmente estudando na Universidade Federal do Pampa (UNIPAMPA), Brasil, cursando bacharelado em Ciência da Computação. Principais interesses de pesquisa incluem a exploração de paralelismo em arquiteturas multi/many core e a implementação de estratégias de limitação de threads para OpenMP e CUDA.
 
+<div align="center">
+  <a href="https://github.com/viniciusufx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusufx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusufx&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/search?q=user%3Aviniciusufx+.c" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="75"/></a>
