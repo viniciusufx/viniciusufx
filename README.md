@@ -7,7 +7,7 @@ Atualmente estudando na Universidade Federal do Pampa (UNIPAMPA), Brasil, cursan
 </div>
 
 <div align="center">
-  <a href="https://github.com/search?q=user%3Aviniciusufx+.c" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="75" alt="Linguagem de programação C"/></a>
-  <a href="https://github.com/search?q=user%3Aviniciusufx+.cpp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="75" alt="Linguagem de programação C++"/></a>
-  <a href="https://github.com/search?q=user%3Aviniciusufx+.py" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="75" alt="Linguagem de programação Python"/></a>
+  <a href="https://github.com/search?q=user%3Aviniciusufx+.c" target="_blank" alt="Linguagem de programação C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="75" alt="Linguagem de programação C"/></a>
+  <a href="https://github.com/search?q=user%3Aviniciusufx+.cpp" target="_blank" alt="Linguagem de programação C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="75" alt="Linguagem de programação C++"/></a>
+  <a href="https://github.com/search?q=user%3Aviniciusufx+.py" target="_blank" alt="Linguagem de programação Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="75" alt="Linguagem de programação Python"/></a>
 </div>
