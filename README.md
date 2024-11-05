@@ -2,7 +2,9 @@ Atualmente estudando na Universidade Federal do Pampa (UNIPAMPA), Brasil, cursan
 <div align="center">
   
 ![viniciusufx's Stats](https://github-readme-stats.vercel.app/api?username=viniciusufx&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
 ![viniciusufx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=viniciusufx&theme=radical&hide_border=true)
+
 ![viniciusufx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusufx&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 </div>
