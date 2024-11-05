@@ -1,10 +1,12 @@
 Atualmente estudando na Universidade Federal do Pampa (UNIPAMPA), Brasil, cursando bacharelado em Ciência da Computação. Principais interesses de pesquisa incluem a exploração de paralelismo em arquiteturas multi/many core e a implementação de estratégias de limitação de threads para OpenMP e CUDA.
-
 <div align="center">
-  <a href="https://github.com/viniciusufx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusufx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusufx&layout=compact&langs_count=7&theme=radical"/>
+  
+![viniciusufx's Stats](https://github-readme-stats.vercel.app/api?username=viniciusufx&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![viniciusufx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=viniciusufx&theme=radical&hide_border=true)
+![viniciusufx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusufx&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
 </div>
+
 
 <div align="center">
   <a href="https://github.com/search?q=user%3Aviniciusufx+.cs" target="_blank" alt=".NET"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" width="75" alt=".NET"/></a>
