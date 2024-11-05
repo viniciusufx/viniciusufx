@@ -7,7 +7,7 @@ Atualmente estudando na Universidade Federal do Pampa (UNIPAMPA), Brasil, cursan
 </div>
 
 <div align="center">
-  <a href="https://github.com/search?q=user%3Aviniciusufx+.cs" target="_blank" alt=".NET"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="75" alt=".NET"/></a>
+  <a href="https://github.com/search?q=user%3Aviniciusufx+.cs" target="_blank" alt=".NET"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" width="75" alt=".NET"/></a>
   <a href="https://github.com/search?q=user%3Aviniciusufx+.c" target="_blank" alt="Linguagem de programação C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="75" alt="Linguagem de programação C"/></a>
   <a href="https://github.com/search?q=user%3Aviniciusufx+.cpp" target="_blank" alt="Linguagem de programação C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="75" alt="Linguagem de programação C++"/></a>
   <a href="https://github.com/search?q=user%3Aviniciusufx+.cs" target="_blank" alt="Linguagem de programação C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75" alt="Linguagem de programação C#"/></a>
